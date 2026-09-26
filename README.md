@@ -3,7 +3,7 @@
 Our team's workspace for the **SingularityNET × Omega × BASIX.Market Hackathon** (Sept 30 – Oct 2, 2026).
 Our goal is a small, working AI agent built with **MeTTa** and **Omega** that shows how it reached its answers.
 
-> **Note:** This repo is only for sharing hackathon files and reference material with the team. We aren't building the project here for now; code may be added later.
+> **Note:** We decided not to take part in this hackathon. The files are kept here for reference, and we may plan something similar in the future.
 
 **Track:** _to be decided_
 

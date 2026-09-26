@@ -20,7 +20,7 @@ Our goal is a small, working AI agent built with **MeTTa** and **Omega** that sh
 
 ## Team
 
-- Name (@github-username)
+- Name (@vjxeyy)
 - Name (@github-username)
 - Name (@github-username)
 - Name (@github-username)
